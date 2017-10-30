@@ -39,7 +39,7 @@ body {
     }
 
     .primaryContainer {
-        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-image:url("bg.jpg");
         background-attachment: scroll;
         -webkit-background-size: cover;
         background-size: cover;
@@ -60,7 +60,7 @@ body {
     }
 
     .primaryContainer {
-        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-image:url("bg.jpg");
         background-attachment: scroll;
         -webkit-background-size: 250%;
         background-size: 250%;
@@ -75,7 +75,7 @@ body {
     }
 
     .primaryContainer {
-        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-image:url("bg.jpg");
         background-attachment: scroll;
         -webkit-background-size: 200%;
         background-size: 200%;
@@ -90,7 +90,7 @@ body {
     }
 
     .primaryContainer {
-        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-image:url("bg.jpg");
         background-attachment: scroll;
         -webkit-background-size: 247.34375%;
         background-size: 247.34375%;
