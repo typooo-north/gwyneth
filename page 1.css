@@ -1,0 +1,101 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+body {
+    font-family: 'Adobe Caslon Pro';
+}
+
+#text {
+    float: left;
+    font-size: 5.5em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: auto;
+    margin-top: 10%;
+    clear: none;
+    min-height: 0px;
+    font-style: normal;
+    color: rgb(207, 135, 30);
+    font-family: 'Adobe Garamond Pro';
+}
+
+@media only screen and (max-width: 1200px) {
+    #text {
+        font-size: 5em;
+    }
+
+    .primaryContainer {
+        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-attachment: scroll;
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    #text {
+        font-size: 4.5em;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #text {
+        font-size: 4em;
+    }
+
+    .primaryContainer {
+        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-attachment: scroll;
+        -webkit-background-size: 250%;
+        background-size: 250%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #text {
+        font-size: 2em;
+    }
+
+    .primaryContainer {
+        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-attachment: scroll;
+        -webkit-background-size: 200%;
+        background-size: 200%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #text {
+        font-size: 1.5em;
+    }
+
+    .primaryContainer {
+        background-image:url("img/Copy%20of%20Copy%20of%20IMG_20170420_211128.jpg");
+        background-attachment: scroll;
+        -webkit-background-size: 247.34375%;
+        background-size: 247.34375%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
